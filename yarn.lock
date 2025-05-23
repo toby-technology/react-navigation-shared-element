@@ -2319,6 +2319,13 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@react-native-oh-tpl/react-native-shared-element@^0.8.9-0.0.6":
+  version "0.8.9-0.0.6"
+  resolved "https://registry.yarnpkg.com/@react-native-oh-tpl/react-native-shared-element/-/react-native-shared-element-0.8.9-0.0.6.tgz#1d0d250a2b88f6d6d695c9db3eb3fdeb0fe9eda4"
+  integrity sha512-PLTmY6cfxeYQZsUkNSJH4AmO6xibOBAmgcNAvd/xga7utJnDc++lFxxaaff64z8YjkSq/FabWTrFcWdw6Phg7Q==
+  dependencies:
+    react-native-shared-element "^0.8.9"
+
 "@react-navigation/bottom-tabs@^6.0.9":
   version "6.0.9"
   resolved "https://registry.yarnpkg.com/@react-navigation/bottom-tabs/-/bottom-tabs-6.0.9.tgz#916b6a4b495ea8fdcace98dab727064876875d09"
@@ -8408,10 +8415,10 @@ react-native-safe-area-view@^0.14.9:
   dependencies:
     hoist-non-react-statics "^2.3.1"
 
-react-native-shared-element@^0.8.8:
-  version "0.8.8"
-  resolved "https://registry.yarnpkg.com/react-native-shared-element/-/react-native-shared-element-0.8.8.tgz#1a86ff54d7a96e22d270254d3e642869c7cb3ff3"
-  integrity sha512-ZjnsI9IXckzX5CFl2lbVX8Izn93zBfYw6knUtW41NZ/HAPVq6wlFuSxAhvFNJ4HRZ3FX6b8gUMDYuUfX7djj0A==
+react-native-shared-element@^0.8.9:
+  version "0.8.9"
+  resolved "https://registry.yarnpkg.com/react-native-shared-element/-/react-native-shared-element-0.8.9.tgz#22aa3231f905ede3821949e1bfb1f62b12ca9a19"
+  integrity sha512-vlzhv3amkJm+8gA0WSeLzcCKNtN/ypZbic3IZ4Bwwr6GeWDrYzZ6k7PdHCioy7fwIVOJ1X9Pi/aYF9HK4Kb0qg==
 
 react-native-tab-view@^2.15.2:
   version "2.16.0"
